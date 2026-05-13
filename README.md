@@ -3,7 +3,7 @@
 > Smart retrieval for your Obsidian vault (or any folder of markdown notes). Tiered scanning saves 5-10x tokens vs. naive "read all my notes" approaches.
 
 
-> **Part of [ccai-skills-pack](https://github.com/cory-dot/ccai-skills-pack)** — Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
+> **Part of [ccai-skills-pack](https://github.com/cory-dot/ccai-skills-pack)**, Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
 
 **Slash command:** `/ccai-obsidian-wiki`
 **Status:** v0.1 · Tier B (works without external services) · works with Claude Code
@@ -22,7 +22,7 @@ Typical query: 20-40K tokens. Naive: 200K+. **5-10x cheaper, faster, and longer-
 
 ## Why this matters for business owners
 
-If you've built a Notion / Obsidian / second-brain over years, that knowledge is one of your biggest assets — but Claude alone can't access it without help. This skill is the access layer.
+If you've built a Notion / Obsidian / second-brain over years, that knowledge is one of your biggest assets, but Claude alone can't access it without help. This skill is the access layer.
 
 ## What you need
 
