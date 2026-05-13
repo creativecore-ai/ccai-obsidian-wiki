@@ -2,6 +2,9 @@
 
 > Smart retrieval for your Obsidian vault (or any folder of markdown notes). Tiered scanning saves 5-10x tokens vs. naive "read all my notes" approaches.
 
+
+> **Part of [ccai-skills-pack](https://github.com/cory-dot/ccai-skills-pack)** — Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
+
 **Slash command:** `/ccai-obsidian-wiki`
 **Status:** v0.1 · Tier B (works without external services) · works with Claude Code
 
