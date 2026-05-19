@@ -3,7 +3,7 @@
 > Smart retrieval for your Obsidian vault (or any folder of markdown notes). Tiered scanning saves 5-10x tokens vs. naive "read all my notes" approaches.
 
 
-> **Part of [ccai-skills-pack](https://github.com/cory-dot/ccai-skills-pack)**, Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
+> **Part of [ccai-skills-pack](https://github.com/creativecore-ai/ccai-skills-pack)**, Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
 
 **Slash command:** `/ccai-obsidian-wiki`
 **Status:** v0.1 · Tier B (works without external services) · works with Claude Code
@@ -33,7 +33,7 @@ If you've built a Notion / Obsidian / second-brain over years, that knowledge is
 ## Install
 
 ```bash
-git clone https://github.com/cory-dot/ccai-obsidian-wiki ~/.claude/skills/ccai-obsidian-wiki
+git clone https://github.com/creativecore-ai/ccai-obsidian-wiki ~/.claude/skills/ccai-obsidian-wiki
 ```
 
 ## Usage
